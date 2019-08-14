@@ -34,3 +34,10 @@
 #.vscode
 
 .vscode/
+
+*
+
+!CmakeLists.txt
+!README.md
+!faceDetect.cpp
+!.gitignore
